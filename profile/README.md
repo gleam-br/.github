@@ -86,6 +86,9 @@ O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como um
 - [Spotless](https://github.com/CrowdHailer/gleam_spotless): OAuth em gleam.
 - [Data validator](https://github.com/Enderchief/apollo): Validação de dados.
 - [Pevensie](https://github.com/Pevensie/pevensie): Framework p/ backend.
+- [lissome](https://github.com/selenil/lissome): Integração c/ Phoenix LiveView.
+- [parrot](https://github.com/daniellionel01/parrot): SQL Type-safe.
+- [gleam-llm](https://github.com/daniellionel01/gleam-llm): LLM AI generative.
 
 ## ⬇️ Instalando o Gleam
 
