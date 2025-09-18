@@ -49,19 +49,212 @@ o Gleam é muito mais do que uma sintaxe elegante. Seus pontos fortes estão na 
 
 O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como uma adição valiosa ao kit de ferramentas de um desenvolvedor, especialmente para aqueles que valorizam a segurança de tipos e a clareza do código.
 
-## 🍿 Algumas bibliotecas
+## 🍿 Mais sobre
 
+- [Gleam oficial](https://gleam.run): Site oficial da linguagem.
+- [Gleam e seu criador](https://devtalk.com/t/the-gleam-programming-language-and-its-creator-louis-pilfold/10038).
+- [Introdução básica](https://news.ycombinator.com/item?id=41812336).
+- [SPA Fullstack em Gleam](https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam)
+- [App em Wisp e Lustre](https://gleaming.dev/articles/building-your-first-gleam-web-app/).
+- Sobre ['primeiras impressões'](https://news.ycombinator.com/item?id=45231852)
+  - https://mtlynch.io/notes/gleam-first-impressions/ 
+
+## 🧙 Alguns recursos
+
+- [Tour Gleam](https://tour.gleam.run/): Faça um tour pela linguagem usando o playground on-line.
+- [Gleam javascript](https://github.com/gleam-lang/javascript): Tipo e funções p/ programas rodando em javascript.
+- [Gleam erlang](https://github.com/gleam-lang/erlang/): Tipo e funções p/ programas rodando em erlang.
+- [Gleam http](https://github.com/gleam-lang/http/): Tipos e funções p/ clientes http e servidores.
 - [lutre.build](https://lustre.build): Uma estrutura para criar aplicativos Web no Gleam!
 - [rsvp](https://github.com/hayleigh-dot-dev/rsvp): Envie solicitações HTTP de aplicativos em Lustre ou web-components.
+- [Wisp](https://hexdocs.pm/wisp/): Web framework simples em gleam.
+- [Mist](https://hexdocs.pm/mist/): Web server baseado no mist http server.
+- [Gleam Tools](https://github.com/Enderchief/gleam-tools): Ferramentas p/ integrar o gleam ao vue usando Vite.js.
+- [create-gleam](https://github.com/Enderchief/create-gleam): Criar projeto na estrutura Vite.js utilizando o plugin p/ gleam.
 - [Cigone](https://github.com/Billuc/cigogne): Migrações p/ banco de dados.
 - [Job Processing](https://github.com/Pevensie/m25): Processamento de jobs.
 - [Gausy](https://github.com/leonqadirie/gauzy): Filtro probabilístico de Gausy.
 - [Tempo](https://github.com/jrstrunk/tempo): Data e hora em gleam.
 - [Spotless](https://github.com/CrowdHailer/gleam_spotless): OAuth em gleam.
+- [Data validator](https://github.com/Enderchief/apollo): Validação de dados.
+- [Pevensie](https://github.com/Pevensie/pevensie): Framework p/ backend.
 
-## 🧙 Blog posts
+## ⬇️ Instalando o Gleam
 
-- https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam
+- [Guia oficial](https://gleam.run/getting-started/installing/)
+
+Para preparar seu computador para o desenvolvimento com Gleam, você precisará instalar o Gleam, o Erlang e, opcionalmente, instalar quaisquer plugins do Gleam para o seu editor.
+
+### Pré-compilado para Linux, Windows e macOS
+
+A maneira mais fácil de instalar o Gleam no Linux, Windows e Apple macOS é baixar uma versão pré-compilada do compilador da [página de lançamentos do GitHub](https://github.com/gleam-lang/gleam/releases).
+
+### Compilar a partir do código-fonte
+
+O compilador é escrito na linguagem de programação Rust e, portanto, se desejar compilar o Gleam a partir do código-fonte, você precisará instalar o [compilador Rust](https://www.rust-lang.org/tools/install).
+
+```shell
+# Baixe o repositório de código-fonte do Gleam
+cd /tmp
+git clone https://github.com/gleam-lang/gleam.git --branch $THE_LATEST_VERSION
+cd gleam
+
+# Compile o compilador do Gleam. Isso levará algum tempo!
+make install
+
+# Verifique se o compilador está instalado
+# Imprime "gleam $VERSION"
+gleam --version
+```
+
+### Instalando o Erlang
+
+O Gleam compila para código Erlang, então o Erlang precisa ser instalado para executar o código Gleam. Alguns dos gerenciadores de pacotes acima (por exemplo, Homebrew) instalarão o Erlang junto com o Gleam automaticamente.
+
+Versões pré-compiladas para muitos sistemas operacionais populares podem ser baixadas do site [Erlang Solutions](https://www.erlang-solutions.com/downloads/).
+
+Depois que o Erlang for instalado, você pode verificar se está funcionando digitando `erl -version` no terminal do seu computador. Você verá informações de versão como esta se tudo estiver bem:
+
+```shell
+erl -version
+Erlang (SMP,ASYNC_THREADS) (BEAM) emulator version 12.1.5
+```
+
+### Instalando o rebar3
+
+Ao usar dependências baseadas em Erlang (como seus servidores web e clientes HTTP), a ferramenta de compilação Erlang `rebar3` pode precisar ser instalada. Instale o `rebar3` seguindo as [instruções oficiais de instalação do rebar3](https://rebar3.org/docs/getting-started/).
+
+### macOS
+
+#### Usando o Homebrew
+
+Com o Homebrew instalado, execute o seguinte:
+
+```shell
+brew update
+brew install gleam
+```
+
+#### Usando o MacPorts
+
+Com o MacPorts instalado, execute o seguinte:
+
+```shell
+sudo port install gleam
+```
+
+### Linux
+
+#### Usando o Homebrew
+
+Com o Homebrew instalado, execute o seguinte:
+
+```shell
+brew update
+brew install gleam
+```
+
+#### gerenciador de versões asdf
+
+O asdf é uma ferramenta para instalar e gerenciar várias versões de linguagens de programação ao mesmo tempo. Instale o [plugin asdf-gleam](https://github.com/asdf-community/asdf-gleam) para gerenciar o Gleam com o asdf.
+
+#### Alpine Linux
+
+O Gleam está disponível no repositório `Community` do Alpine Linux como um pacote `gleam`. Instale-o com:
+
+```shell
+apk add gleam
+```
+
+#### Arch Linux
+
+O Gleam está disponível através do Arch User Repository como pacote `gleam`. Você pode usar seu auxiliar preferido para instalá-lo ou cloná-lo para compilação manual de `https://aur.archlinux.org/packages/gleam-git`.
+
+```shell
+yay -S gleam
+```
+
+#### Gentoo Linux
+
+O Gleam está disponível no gerenciador de pacotes oficial, mas pode precisar ser desbloqueado. Instale-o com:
+
+```shell
+sudo echo "dev-lang/gleam ~amd64" >> /etc/portage/package.accept_keywords
+emerge --ask dev-lang/gleam
+```
+
+#### Void Linux
+
+O Gleam está disponível como parte do repositório de pacotes oficial. Instale-o com:
+
+```shell
+sudo xbps-install gleam
+```
+
+#### Fedora
+
+Você pode instalar o Gleam no Fedora usando o gerenciador de pacotes DNF. Execute o seguinte comando:
+
+```shell
+sudo dnf copr enable frostyx/gleam
+sudo dnf install gleam
+```
+
+#### FreeBSD
+
+O Gleam está disponível nos ports e também em pacotes binários. Pode ser necessário usar o repositório de pacotes mais recente, altere conforme as instruções em `/etc/pkg/FreeBSD.conf`. Veja abaixo como ajustar seu `PATH` para usar o tempo de execução Erlang/OTP mais recente e não apenas o OTP21 padrão:
+
+```shell
+$ pkg install -r FreeBSD lang/gleam lang/erlang-runtime23
+$ export PATH=/usr/local/lib/erlang23/bin:$PATH
+```
+
+#### OpenBSD
+
+O Gleam está disponível como um pacote binário. Você pode instalá-lo com:
+
+```shell
+doas pkg_add gleam
+```
+
+#### openSUSE
+
+O Gleam está disponível como parte do repositório de pacotes oficial. Instale-o com:
+
+```shell
+zypper install gleam
+```
+
+### Android
+
+#### Termux
+
+O Gleam está disponível como parte do repositório de pacotes oficial. Instale-o com:
+
+```shell
+pkg install gleam
+```
+
+### Windows
+
+#### Usando o Scoop
+
+Com o Scoop instalado em seu computador, execute o seguinte:
+
+```shell
+scoop install gleam
+```
+
+### Plugins de Editor
+
+Plugins do Gleam estão disponíveis para vários editores populares. Se existir um para o seu editor de preferência, considere instalá-lo para realce de sintaxe e outras conveniências.
+
+  * **Vim** - `https://github.com/gleam-lang/gleam.vim`
+  * **Emacs** - `https://github.com/gleam-lang/gleam-mode`
+  * **Visual Studio Code** - `https://github.com/gleam-lang/vscode-gleam`
+  * **Sublime Text** - `https://github.com/digitalcora/sublime-text-gleam`
+  * **Atom** - `https://github.com/itsgreggreg/language-gleam`
+  * **Gedit** - `https://github.com/DannyLettuce/gleam_gedit`
 
 ## 🌈 Mascote
 
