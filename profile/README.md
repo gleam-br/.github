@@ -76,6 +76,7 @@ O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como um
 - [rsvp](https://github.com/hayleigh-dot-dev/rsvp): Envie solicitações HTTP de aplicativos em Lustre ou web-components.
 - [Wisp](https://hexdocs.pm/wisp/): Web framework simples em gleam.
 - [Mist](https://hexdocs.pm/mist/): Web server baseado no mist http server.
+- [Gleam vite](https://erikarow.land/notes/gleam-vite): Incorporando o Gleam no meu blog com o Vite.
 - [Gleam Tools](https://github.com/Enderchief/gleam-tools): Ferramentas p/ integrar o gleam ao vue usando Vite.js.
 - [create-gleam](https://github.com/Enderchief/create-gleam): Criar projeto na estrutura Vite.js utilizando o plugin p/ gleam.
 - [Cigone](https://github.com/Billuc/cigogne): Migrações p/ banco de dados.
