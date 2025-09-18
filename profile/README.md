@@ -1,3 +1,20 @@
+## 👋 Seja bem-vindo ao GleamBR
+
+🎉 GleamBR é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
+
+⚗️ Podemos também considerar uma plataforma de produção e curadoria de conteúdo, em português, voltada para a comunidade [gleam-lang](https://gleam.run).
+
+- [gleam.dev.br](https://gleam.dev.br): 🚧 Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
+- [gleam-lang.com.br](https://gleam-lang.com.br): 🚧 Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
+
+## ⭐ Pronto para começar sua jornada Gleam?
+
+Confira o [tour da linguagem](https://tour.gleam.run/) e [a documentção](https://gleam.run/documentation) aqui.
+
+Já está usando em produção? [Compartilhe sua história conosco](https://gleam.run/community), adoraríamos saber mais!
+
+## 📈 Estatísticas
+
 <table>
   <tr>
     <td>
@@ -36,21 +53,6 @@
     </td>
   </tr>
 </table>
-
-## Seja bem-vindo ao GleamBR 👋
-
-🎉 GleamBR é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
-
-⚗️ Podemos também considerar uma plataforma de produção e curadoria de conteúdo, em português, voltada para a comunidade [gleam-lang](https://gleam.run).
-
-- [gleam.dev.br](https://gleam.dev.br): 🚧 Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
-- [gleam-lang.com.br](https://gleam-lang.com.br): 🚧 Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
-
-## ⭐ Pronto para começar sua jornada Gleam?
-
-Confira o [tour da linguagem](https://tour.gleam.run/) e [a documentção](https://gleam.run/documentation) aqui.
-
-Já está usando em produção? [Compartilhe sua história conosco](https://gleam.run/community), adoraríamos saber mais!
 
 ## 👩‍💻 Por quê utilizar o gleam?
 
