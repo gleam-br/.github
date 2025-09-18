@@ -7,6 +7,12 @@
 - [gleam.dev.br](https://gleam.dev.br)
 - [gleam-lang.com.br](https://gleam-lang.com.br)
 
+## ⭐ Pronto para começar sua jornada Gleam?
+
+Confira o [tour da linguagem](https://tour.gleam.run/) e [a documentção](https://gleam.run/documentation) aqui.
+
+Já está usando em produção? [Compartilhe sua história conosco](https://gleam.run/community), adoraríamos saber mais!
+
 ## 👩‍💻 Por quê utilizar o gleam?
 
 > Ref. https://lozdev.com/why-gleam-deserves-a-spot-in-your-2025-toolkit-beyond-the-syntax/
@@ -52,7 +58,7 @@ O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como um
 
 ## 🍿 Mais sobre
 
-- [Gleam oficial](https://gleam.run): Site oficial da linguagem.
+- [Gleam oficial](https://gleam.run).
 - [Gleam e seu criador](https://devtalk.com/t/the-gleam-programming-language-and-its-creator-louis-pilfold/10038).
 - [Introdução básica](https://news.ycombinator.com/item?id=41812336).
 - [SPA Fullstack em Gleam](https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam)
@@ -256,6 +262,65 @@ Plugins do Gleam estão disponíveis para vários editores populares. Se existir
   * **Sublime Text** - `https://github.com/digitalcora/sublime-text-gleam`
   * **Atom** - `https://github.com/itsgreggreg/language-gleam`
   * **Gedit** - `https://github.com/DannyLettuce/gleam_gedit`
+
+## Strand: Gleam em produção
+
+Ref. https://gleam.run/case-studies/strand/
+
+Otimizando para manutenibilidade
+Um estudo de caso da Gleam em produção na Strand
+
+[A Strand](https://www.strand-uk.com/) é uma agência de marketing sediada em Londres, Reino Unido. A empresa é especializada em redação publicitária e criação de conteúdo para muitas das maiores empresas de tecnologia empresarial do mundo, executando programas de marketing que produzem centenas de white papers, estudos de caso, postagens de blog e artigos todos os anos.
+
+### Desafio
+
+Por muitos anos, a Strand utilizou um sistema de gerenciamento de projetos personalizado para dar suporte aos aspectos operacionais de seus negócios — criação de projetos, acompanhamento de atividades e gerenciamento de documentos. No entanto, gerenciar os aspectos financeiros do gerenciamento de projetos sempre foi um processo mais manual, com o uso de planilhas para garantir que o trabalho faturável fosse atribuído aos pedidos de compra e faturas corretos.
+
+“Pouco antes da pandemia, decidimos criar um novo sistema de gestão financeira”, lembra Ed Kelly, Diretor de Tecnologia da Strand. “Acabou sendo uma decisão muito oportuna. Quando tivemos que migrar para o trabalho remoto, o fato de todos poderem acompanhar seu trabalho faturável em um sistema centralizado nos ajudou a manter o negócio nos trilhos.”
+
+O novo sistema rapidamente se tornou parte integrante do fluxo de trabalho diário da Strand, e os usuários começaram a solicitar novos recursos. À medida que o aplicativo se tornava gradualmente maior e mais complexo, a pequena equipe de desenvolvimento da empresa queria garantir que o sistema permanecesse confiável, sustentável e escalável.
+
+“Quase por acidente, o que lançamos como protótipo se tornou um aplicativo crítico para os negócios”, diz Ed Kelly. “Nossos recursos de desenvolvimento são limitados, então nossa principal prioridade era garantir que o sistema funcionasse para sempre, sem precisar de manutenção constante. Ao mesmo tempo, queríamos manter a base de código simples e acessível, para que fosse fácil para os desenvolvedores voltarem a usá-la quando precisassem fazer alguma alteração. O desafio para nós era construir e manter esse sistema crítico para os negócios de forma econômica, com nossa equipe de desenvolvimento enxuta.”
+
+### Solução
+
+Como uma pequena empresa, a Strand não tem medo de inovar. "Temos sistemas escritos em linguagens de programação tradicionais, como Python e JavaScript, mas nossa estratégia é escolher a melhor ferramenta para o trabalho, não apenas a mais popular", explica Ed Kelly. "O Gleam atendeu perfeitamente às nossas necessidades."
+
+Os recursos do Gleam que atraíram Strand foram sua robustez e facilidade de manutenção, sua combinação de recursos de linguagem modernos com acesso a um amplo ecossistema de bibliotecas testadas em campo e de nível de produção, e seu forte foco na experiência do desenvolvedor.
+
+#### Segurança e confiabilidade
+
+“Gleam é uma linguagem segura”, explica Ed Kelly. “Em termos gerais, se você escrever um programa em Gleam puro, ele certamente não travará. E nos casos em que você precisa interagir com código escrito em outras linguagens menos seguras, há uma segunda camada de proteção fornecida pela plataforma de tempo de execução do Gleam, a BEAM.”
+
+O BEAM foi desenvolvido pela Ericsson na década de 1980 como uma plataforma tolerante a falhas para gerenciar grandes centrais telefônicas que precisam lidar com milhares de chamadas simultaneamente e nunca podem ser desconectadas para manutenção. A ideia central é que a plataforma seja capaz de dividir aplicações em milhares ou até milhões de processos leves. Cada processo é executado de forma independente e pode se comunicar enviando mensagens entre si. Se um processo individual falhar, ele pode ser reiniciado automaticamente sem afetar nenhum dos outros processos.
+
+“O aplicativo que criamos é composto por vários serviços que interagem com o mundo externo”, explica Ed Kelly. “Por exemplo, temos um serviço que baixa periodicamente as taxas de câmbio do site do governo do Reino Unido e outro que sincroniza os dados com o nosso sistema de gerenciamento de projetos. O BEAM garante que, se houver algum problema imprevisto com qualquer um desses serviços externos, ele não travará o nosso aplicativo.”
+
+#### Modernidade e pragmatismo
+
+O Gleam foi projetado para ser uma linguagem simples que oferece recursos poderosos, mas permanece resolutamente prática. "Ele nos dá acesso a recursos de linguagens de programação mais acadêmicas, mas as torna acessíveis", diz Ed Kelly. "A linguagem é pequena — um desenvolvedor experiente pode aprendê-la em uma tarde — e há um forte foco em ter apenas uma maneira de fazer as coisas. Isso significa que você pode integrar novos desenvolvedores a uma base de código do Gleam rapidamente."
+
+Como o código do Gleam roda no BEAM, os desenvolvedores também têm fácil acesso a milhares de bibliotecas de software de alta qualidade. "O ecossistema de bibliotecas do Gleam cresce rapidamente a cada ano", afirma Ed Kelly. "E, quando necessário, também podemos recorrer a 40 anos de bibliotecas testadas em outras linguagens BEAM, como Erlang e Elixir. A linguagem prioriza o pragmatismo em vez da pureza, o que nos ajuda a realizar as tarefas."
+
+#### Experiência do desenvolvedor
+
+Na experiência de Strand, as ferramentas de desenvolvedor do Gleam são inigualáveis. "Ao baixar o Gleam, você obtém todas as ferramentas em um único pacote", diz Ed Kelly. "Ele se integra ao seu editor de código para fornecer recursos como formatação, sugestões e preenchimento automático. As mensagens de erro são muito amigáveis ​​e úteis — quando você comete um erro, o Gleam frequentemente informa o que você deveria ter escrito. E é muito rápido — os dias de fazer uma pausa para o café enquanto espera a compilação do seu código acabaram."
+
+Ele acrescenta: “Estamos entrando em uma nova era de codificação assistida por IA e, no momento, é difícil prever como isso se desenrolará. Mas, se eu tivesse que apostar, diria que, a longo prazo, as IAs têm mais probabilidade de gerar código de alta qualidade em uma linguagem como o Gleam. O Gleam torna rápido e fácil para as IAs verificarem seu código, obterem feedback instantâneo e iterarem. Isso deve ser uma vantagem em comparação com linguagens que são lentas para construir, têm mensagens de erro enigmáticas e não conseguem detectar erros em tempo de construção.”
+
+#### Adoção incremental
+
+Para a Strand, a introdução do Gleam em sua base de código foi um processo incremental e de baixo risco. "Começamos com apenas um serviço: nossa integração com a API de taxas de câmbio do governo do Reino Unido", diz Ed Kelly. "Ficamos tão satisfeitos com o resultado que reescrevemos alguns de nossos outros serviços no Gleam. E, recentemente, decidimos dar ao Gleam um papel ainda mais importante, substituindo toda a parte do backend que se comunica com nosso banco de dados. Estamos muito confiantes de que isso nos proporcionará uma base de código mais segura e de fácil manutenção em geral."
+
+#### Resultados
+
+Como uma das primeiras empresas do mundo a usar o Gleam em produção, a Strand assumiu o risco. Dois anos depois, a equipe de desenvolvimento está muito feliz com a decisão. "Desde que começamos, a linguagem amadureceu bastante e atingiu um estado estável", diz Ed Kelly. "A comunidade cresceu enormemente e há um verdadeiro burburinho em torno da linguagem. Ela está até começando a ser reconhecida por analistas tradicionais do setor, como a Thoughtworks, em seu Technology Radar . Acredito que, hoje, o Gleam é uma escolha segura e sólida para empresas usarem em produção."
+
+Desde o lançamento, o código do Gleam no aplicativo da Strand tem se mostrado extremamente sólido. "Não tivemos nenhuma falha relacionada ao Gleam e, mesmo quando houve problemas com outras partes do sistema, o BEAM manteve tudo funcionando", diz Ed Kelly. "Conseguimos corrigir problemas sem que nossos usuários percebessem que havia algo errado."
+
+A simplicidade da linguagem e a sofisticação das ferramentas de desenvolvimento também ajudam a manter a base de código sustentável. "Mesmo quando não olhamos a base de código por algumas semanas, é fácil voltar a ela", diz Ed Kelly. "A linguagem e as ferramentas nos incentivam gentilmente a usar um estilo consistente e idiomático, e a escrever de forma clara e simples, sem tentar ser muito inteligentes. Assim, não precisamos perder tempo tentando entender o que nós mesmos do passado estávamos tentando fazer com o código que escrevemos seis meses atrás."
+
+Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam valeu a pena. A abordagem de segurança e tolerância a falhas, com todos os cuidados necessários, nos proporcionou um sistema que funciona de forma confiável, dia após dia, sem supervisão e manutenção constantes. Para uma equipe como a nossa, com muitas outras prioridades e projetos nos quais precisamos trabalhar, a confiança que o Gleam nos dá vale ouro.”
 
 ## 🌈 Mascote
 
