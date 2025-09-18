@@ -61,10 +61,10 @@ O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como um
 - [Gleam oficial](https://gleam.run).
 - [Gleam e seu criador](https://devtalk.com/t/the-gleam-programming-language-and-its-creator-louis-pilfold/10038).
 - [Introdução básica](https://news.ycombinator.com/item?id=41812336).
-- [SPA Fullstack em Gleam](https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam)
+- [SPA Fullstack em Gleam](https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam).
 - [App em Wisp e Lustre](https://gleaming.dev/articles/building-your-first-gleam-web-app/).
-- Sobre ['primeiras impressões'](https://news.ycombinator.com/item?id=45231852)
-  - https://mtlynch.io/notes/gleam-first-impressions/ 
+- Sobre ['primeiras impressões'](https://news.ycombinator.com/item?id=45231852).
+  - https://mtlynch.io/notes/gleam-first-impressions
 
 ## 🧙 Alguns recursos
 
@@ -88,7 +88,7 @@ O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como um
 
 ## ⬇️ Instalando o Gleam
 
-- [Guia oficial](https://gleam.run/getting-started/installing/)
+> Ref. [Guia oficial](https://gleam.run/getting-started/installing/)
 
 Para preparar seu computador para o desenvolvimento com Gleam, você precisará instalar o Gleam, o Erlang e, opcionalmente, instalar quaisquer plugins do Gleam para o seu editor.
 
@@ -263,12 +263,12 @@ Plugins do Gleam estão disponíveis para vários editores populares. Se existir
   * **Atom** - `https://github.com/itsgreggreg/language-gleam`
   * **Gedit** - `https://github.com/DannyLettuce/gleam_gedit`
 
-## Strand: Gleam em produção
+## 🚀 Strand: Gleam em produção
 
-Ref. https://gleam.run/case-studies/strand/
+> Ref. https://gleam.run/case-studies/strand/
 
-Otimizando para manutenibilidade
-Um estudo de caso da Gleam em produção na Strand
+**Objetivo**: Otimizando para manutenibilidade
+**Título**  : Um estudo de caso da Gleam em produção na Strand
 
 [A Strand](https://www.strand-uk.com/) é uma agência de marketing sediada em Londres, Reino Unido. A empresa é especializada em redação publicitária e criação de conteúdo para muitas das maiores empresas de tecnologia empresarial do mundo, executando programas de marketing que produzem centenas de white papers, estudos de caso, postagens de blog e artigos todos os anos.
 
