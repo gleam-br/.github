@@ -1,7 +1,8 @@
 ## Seja bem-vindo ao GleamBR 👋
 
-:tada: GleamBR é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
-Podemos também considerar uma plataforma de produção e curadoria de conteúdo, em português, voltada para a comunidade [gleam-lang](https://gleam.run).
+🎉 GleamBR é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
+
+⚗️ Podemos também considerar uma plataforma de produção e curadoria de conteúdo, em português, voltada para a comunidade [gleam-lang](https://gleam.run).
 
 - [gleam.dev.br](https://gleam.dev.br)
 - [gleam-lang.com.br](https://gleam-lang.com.br)
