@@ -252,23 +252,20 @@ Com o Scoop instalado em seu computador, execute o seguinte:
 scoop install gleam
 ```
 
-### Plugins de Editor
+### Plugins p/ Editores de Texto
 
 Plugins do Gleam estão disponíveis para vários editores populares. Se existir um para o seu editor de preferência, considere instalá-lo para realce de sintaxe e outras conveniências.
 
-  * **Vim** - `https://github.com/gleam-lang/gleam.vim`
-  * **Emacs** - `https://github.com/gleam-lang/gleam-mode`
-  * **Visual Studio Code** - `https://github.com/gleam-lang/vscode-gleam`
-  * **Sublime Text** - `https://github.com/digitalcora/sublime-text-gleam`
-  * **Atom** - `https://github.com/itsgreggreg/language-gleam`
-  * **Gedit** - `https://github.com/DannyLettuce/gleam_gedit`
+  - [Vim](https://github.com/gleam-lang/gleam.vim).
+  - [Emacs](https://github.com/gleam-lang/gleam-mode).
+  - [Visual Studio Code](https://github.com/gleam-lang/vscode-gleam).
+  - [Sublime Text](https://github.com/digitalcora/sublime-text-gleam).
+  - [Atom](https://github.com/itsgreggreg/language-gleam).
+  - [Gedit](https://github.com/DannyLettuce/gleam_gedit).
 
 ## 🚀 Strand: Gleam em produção
 
 > Ref. https://gleam.run/case-studies/strand/
-
-**Objetivo**: Otimizando para manutenibilidade
-**Título**  : Um estudo de caso da Gleam em produção na Strand
 
 [A Strand](https://www.strand-uk.com/) é uma agência de marketing sediada em Londres, Reino Unido. A empresa é especializada em redação publicitária e criação de conteúdo para muitas das maiores empresas de tecnologia empresarial do mundo, executando programas de marketing que produzem centenas de white papers, estudos de caso, postagens de blog e artigos todos os anos.
 
