@@ -6,17 +6,6 @@ Podemos também considerar uma plataforma de produção e curadoria de conteúdo
 - [gleam.dev.br](https://gleam.dev.br)
 - [gleam-lang.com.br](https://gleam-lang.com.br)
 
-## 🌈 Mascote
-
-"Lúcia"(pt_BR) -> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
-> Ambos os nomes têm a mesma origem latina, vindo de "Lux", que significa "luz"
-
-![Lúcia](https://github.com/user-attachments/assets/07c159af-d72d-47d1-8b1f-b5f8a64f451b)
-
-![Lúcia sorrindo](https://github.com/user-attachments/assets/e34b6475-8f5c-408e-a893-283fb350ab28)
-
-![Lúcia sorrindo rotacionado](https://github.com/user-attachments/assets/90ea6373-4c13-4b50-b1cc-a66a31ac5686)
-
 ## 👩‍💻 Por quê utilizar o gleam?
 
 > Ref. https://lozdev.com/why-gleam-deserves-a-spot-in-your-2025-toolkit-beyond-the-syntax/
@@ -73,3 +62,15 @@ O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como um
 ## 🧙 Blog posts
 
 - https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam
+
+## 🌈 Mascote
+
+"Lúcia"(pt_BR) -> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
+> Ambos os nomes têm a mesma origem latina, vindo de "Lux", que significa "luz"
+
+![Lúcia](https://github.com/user-attachments/assets/07c159af-d72d-47d1-8b1f-b5f8a64f451b)
+
+![Lúcia sorrindo](https://github.com/user-attachments/assets/e34b6475-8f5c-408e-a893-283fb350ab28)
+
+![Lúcia sorrindo rotacionado](https://github.com/user-attachments/assets/90ea6373-4c13-4b50-b1cc-a66a31ac5686)
+
