@@ -1,3 +1,42 @@
+<table>
+  <tr>
+    <td>
+      <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=62341543" target="_blank" style="display: block" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=dark" width="721" height="auto">
+          <img alt="Star History of gleam-lang/gleam" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=light" width="721" height="auto">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=62341543&activity=stars" target="_blank" style="display: block" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=62341543&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
+          <img alt="Star Geographical Distribution of gleam-lang/gleam" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=62341543&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=62341543" target="_blank" style="display: block" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=dark" width="721" height="auto">
+          <img alt="Lines of Code Changes of gleam-lang/gleam" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=light" width="721" height="auto">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://next.ossinsight.io/widgets/official/compose-contributors?repo_id=62341543&limit=200" target="_blank" style="display: block" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?repo_id=62341543&limit=200&image_size=auto&color_scheme=dark" width="655" height="auto">
+          <img alt="Contributors of gleam-lang/gleam" src="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?repo_id=62341543&limit=200&image_size=auto&color_scheme=light" width="655" height="auto">
+        </picture>
+      </a>      
+    </td>
+  </tr>
+</table>
+
 ## Seja bem-vindo ao GleamBR 👋
 
 🎉 GleamBR é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
