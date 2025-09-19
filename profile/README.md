@@ -11,6 +11,8 @@
 
 Confira o [tour da linguagem](https://tour.gleam.run/) e [a documentção](https://gleam.run/documentation) aqui.
 
+Para ver todos os recursos da linguagem de uma vez acesso o [tour everything](https://tour.gleam.run/everything/).
+
 Já está usando em produção? [Compartilhe sua história conosco](https://gleam.run/community), adoraríamos saber mais!
 
 ## 📈 Estatísticas
