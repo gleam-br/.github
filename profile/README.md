@@ -106,6 +106,7 @@ O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como um
 - [Introdução básica](https://news.ycombinator.com/item?id=41812336).
 - [SPA Fullstack em Gleam](https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam).
 - [App em Wisp e Lustre](https://gleaming.dev/articles/building-your-first-gleam-web-app/).
+- [Gleam no RaspiberryPI](https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi).
 - Sobre ['primeiras impressões'](https://news.ycombinator.com/item?id=45231852).
   - https://mtlynch.io/notes/gleam-first-impressions
 
