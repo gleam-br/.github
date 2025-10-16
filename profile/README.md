@@ -4,8 +4,8 @@
 
 ⚗️ Podemos também considerar uma plataforma de produção e curadoria de conteúdo, em português, voltada para a comunidade [gleam-lang](https://gleam.run).
 
-- [gleam.dev.br](https://gleam.dev.br): 🚧 Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
-- [gleam-lang.com.br](https://gleam-lang.com.br): 🚧 Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
+- [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
+- [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
 
 ## ⭐ Pronto para começar sua jornada Gleam?
 
