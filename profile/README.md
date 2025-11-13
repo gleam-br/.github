@@ -15,7 +15,7 @@
 - [ts-plugin-gleam](https://github.com/gleam-br/ts-plugin-gleam): [TS](https://typescriptlang.org/) plugin p/ gleam.
 - [gbr_shared](https://github.com/gleam-br/gbr_shared): Shared library p/ gleam target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) e [erl](https://erlang.org).
 - [gbr_js](https://github.com/gleam-br/gbr_js): Javascript library p/ gleam, somente target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-- [gbr_msal](https://github.com/gleam-br/gbr_msal): Javascript gleam [MS authorization library integration]([https://](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
+- [gbr_msal](https://github.com/gleam-br/gbr_msal): Javascript gleam [MS authorization library integration](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
 
 ## ⭐ Pronto para começar sua jornada Gleam?
 
