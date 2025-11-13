@@ -36,24 +36,6 @@ Já está usando em produção? [Compartilhe sua história conosco](https://glea
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=62341543" target="_blank" style="display: block" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=dark" width="721" height="auto">
-          <img alt="Lines of Code Changes of gleam-lang/gleam" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=light" width="721" height="auto">
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=62341543" target="_blank" style="display: block" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=dark" width="721" height="auto">
-          <img alt="Pushes and Commits of gleam-lang/gleam" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=62341543&image_size=auto&color_scheme=light" width="721" height="auto">
-        </picture>
-      </a>
-    </td>
-  </tr>
 </table>
 
 ## 👩‍💻 Por quê utilizar o gleam?
