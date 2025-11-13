@@ -7,6 +7,16 @@
 - [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
 - [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
 
+## 🛫 Bibliotecas by @gleam-br
+
+- [core-plugin-gleam](https://github.com/gleam-br/core-plugin-gleam): Core de funções p/ os plugins js.
+- [bun-plugin-gleam](https://github.com/gleam-br/bun-plugin-gleam): [Bun](https://bun.com/) plugin p/ gleam.
+- [vite-plugin-gleam](https://github.com/gleam-br/vite-plugin-gleam): [Vite](https://vite.dev/) plugin p/ gleam.
+- [ts-plugin-gleam](https://github.com/gleam-br/ts-plugin-gleam): TS plugin p/ gleam.
+- [gbr_shared](https://github.com/gleam-br/gbr_shared): Shared library p/ gleam target `js` e `erl`.
+- [gbr_js](https://github.com/gleam-br/gbr_js): Javascript library p/ gleam, somente target `js`.
+- [gbr_msal](https://github.com/gleam-br/gbr_msal): Javascript gleam MS authorization library integration.
+
 ## ⭐ Pronto para começar sua jornada Gleam?
 
 Confira o [tour da linguagem](https://tour.gleam.run/) e [a documentção](https://gleam.run/documentation) aqui.
