@@ -26,6 +26,8 @@ Para ver todos os recursos da linguagem de uma vez acesso o [tour everything](ht
 
 Já está usando em produção? [Compartilhe sua história conosco](https://gleam.run/community), adoraríamos saber mais!
 
+[Code Wiki Gleam](https://codewiki.google/github.com/gleam-lang/gleam)
+
 ## 📈 Estatísticas
 
 <table>
