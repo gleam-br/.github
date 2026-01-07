@@ -56,7 +56,8 @@ Já está usando em produção? [Compartilhe sua história conosco](https://glea
 > Ref. https://lozdev.com/why-gleam-deserves-a-spot-in-your-2025-toolkit-beyond-the-syntax/
 
 <details>
-  <sumary>Clique p/ expandir aqui.</sumary>
+  <summary>Clique p/ expandir aqui.</summary>
+
 ### 1. A Tipagem Estática e a Experiência de Desenvolvimento (DX)
 
 Destacando a tipagem estática do Gleam, um recurso que o diferencia de outras linguagens da BEAM como Erlang e Elixir.
