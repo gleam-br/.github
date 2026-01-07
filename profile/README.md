@@ -51,6 +51,40 @@ Já está usando em produção? [Compartilhe sua história conosco](https://glea
   </tr>
 </table>
 
+## 🍿 Mais sobre
+
+- [Gleam oficial](https://gleam.run).
+- [Gleam e seu criador](https://devtalk.com/t/the-gleam-programming-language-and-its-creator-louis-pilfold/10038).
+- [Introdução básica](https://news.ycombinator.com/item?id=41812336).
+- [SPA Fullstack em Gleam](https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam).
+- [App em Wisp e Lustre](https://gleaming.dev/articles/building-your-first-gleam-web-app/).
+- [Gleam no RaspiberryPI](https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi).
+- Sobre ['primeiras impressões'](https://news.ycombinator.com/item?id=45231852).
+  - https://mtlynch.io/notes/gleam-first-impressions
+
+## 🧙 Alguns recursos
+
+- [Tour Gleam](https://tour.gleam.run/): Faça um tour pela linguagem usando o playground on-line.
+- [Gleam javascript](https://github.com/gleam-lang/javascript): Tipo e funções p/ programas rodando em javascript.
+- [Gleam erlang](https://github.com/gleam-lang/erlang/): Tipo e funções p/ programas rodando em erlang.
+- [Gleam http](https://github.com/gleam-lang/http/): Tipos e funções p/ clientes http e servidores.
+- [lutre.build](https://lustre.build): Uma estrutura para criar aplicativos Web no Gleam!
+- [rsvp](https://github.com/hayleigh-dot-dev/rsvp): Envie solicitações HTTP de aplicativos em Lustre ou web-components.
+- [Wisp](https://hexdocs.pm/wisp/): Web framework simples em gleam.
+- [Mist](https://hexdocs.pm/mist/): Web server baseado no mist http server.
+- [Gleam vite](https://erikarow.land/notes/gleam-vite): Incorporando o Gleam no meu blog com o Vite.
+- [Gleam Tools](https://github.com/Enderchief/gleam-tools): Ferramentas p/ integrar o gleam ao vue usando Vite.js.
+- [create-gleam](https://github.com/Enderchief/create-gleam): Criar projeto na estrutura Vite.js utilizando o plugin p/ gleam.
+- [Cigone](https://github.com/Billuc/cigogne): Migrações p/ banco de dados.
+- [Job Processing](https://github.com/Pevensie/m25): Processamento de jobs.
+- [Gausy](https://github.com/leonqadirie/gauzy): Filtro probabilístico de Gausy.
+- [Tempo](https://github.com/jrstrunk/tempo): Data e hora em gleam.
+- [Spotless](https://github.com/CrowdHailer/gleam_spotless): OAuth em gleam.
+- [Data validator](https://github.com/Enderchief/apollo): Validação de dados.
+- [Pevensie](https://github.com/Pevensie/pevensie): Framework p/ backend.
+- [lissome](https://github.com/selenil/lissome): Integração c/ Phoenix LiveView.
+- [parrot](https://github.com/daniellionel01/parrot): SQL Type-safe.
+- [gleam-llm](https://github.com/daniellionel01/gleam-llm): LLM AI generative.
 ## 👩‍💻 Por quê utilizar o gleam?
 
 > Ref. https://lozdev.com/why-gleam-deserves-a-spot-in-your-2025-toolkit-beyond-the-syntax/
@@ -98,44 +132,12 @@ o Gleam é muito mais do que uma sintaxe elegante. Seus pontos fortes estão na 
 O Gleam se posiciona, não como um substituto para Erlang ou Elixir, mas como uma adição valiosa ao kit de ferramentas de um desenvolvedor, especialmente para aqueles que valorizam a segurança de tipos e a clareza do código.
 </details>
 
-## 🍿 Mais sobre
-
-- [Gleam oficial](https://gleam.run).
-- [Gleam e seu criador](https://devtalk.com/t/the-gleam-programming-language-and-its-creator-louis-pilfold/10038).
-- [Introdução básica](https://news.ycombinator.com/item?id=41812336).
-- [SPA Fullstack em Gleam](https://keii.dev/posts/the-basics-for-a-fullstack-spa-in-gleam).
-- [App em Wisp e Lustre](https://gleaming.dev/articles/building-your-first-gleam-web-app/).
-- [Gleam no RaspiberryPI](https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi).
-- Sobre ['primeiras impressões'](https://news.ycombinator.com/item?id=45231852).
-  - https://mtlynch.io/notes/gleam-first-impressions
-
-## 🧙 Alguns recursos
-
-- [Tour Gleam](https://tour.gleam.run/): Faça um tour pela linguagem usando o playground on-line.
-- [Gleam javascript](https://github.com/gleam-lang/javascript): Tipo e funções p/ programas rodando em javascript.
-- [Gleam erlang](https://github.com/gleam-lang/erlang/): Tipo e funções p/ programas rodando em erlang.
-- [Gleam http](https://github.com/gleam-lang/http/): Tipos e funções p/ clientes http e servidores.
-- [lutre.build](https://lustre.build): Uma estrutura para criar aplicativos Web no Gleam!
-- [rsvp](https://github.com/hayleigh-dot-dev/rsvp): Envie solicitações HTTP de aplicativos em Lustre ou web-components.
-- [Wisp](https://hexdocs.pm/wisp/): Web framework simples em gleam.
-- [Mist](https://hexdocs.pm/mist/): Web server baseado no mist http server.
-- [Gleam vite](https://erikarow.land/notes/gleam-vite): Incorporando o Gleam no meu blog com o Vite.
-- [Gleam Tools](https://github.com/Enderchief/gleam-tools): Ferramentas p/ integrar o gleam ao vue usando Vite.js.
-- [create-gleam](https://github.com/Enderchief/create-gleam): Criar projeto na estrutura Vite.js utilizando o plugin p/ gleam.
-- [Cigone](https://github.com/Billuc/cigogne): Migrações p/ banco de dados.
-- [Job Processing](https://github.com/Pevensie/m25): Processamento de jobs.
-- [Gausy](https://github.com/leonqadirie/gauzy): Filtro probabilístico de Gausy.
-- [Tempo](https://github.com/jrstrunk/tempo): Data e hora em gleam.
-- [Spotless](https://github.com/CrowdHailer/gleam_spotless): OAuth em gleam.
-- [Data validator](https://github.com/Enderchief/apollo): Validação de dados.
-- [Pevensie](https://github.com/Pevensie/pevensie): Framework p/ backend.
-- [lissome](https://github.com/selenil/lissome): Integração c/ Phoenix LiveView.
-- [parrot](https://github.com/daniellionel01/parrot): SQL Type-safe.
-- [gleam-llm](https://github.com/daniellionel01/gleam-llm): LLM AI generative.
-
 ## ⬇️ Instalando o Gleam
 
 > Ref. [Guia oficial](https://gleam.run/getting-started/installing/)
+
+<details>
+  <summary>Clique p/ expandir aqui.</summary>
 
 Para preparar seu computador para o desenvolvimento com Gleam, você precisará instalar o Gleam, o Erlang e, opcionalmente, instalar quaisquer plugins do Gleam para o seu editor.
 
@@ -309,10 +311,15 @@ Plugins do Gleam estão disponíveis para vários editores populares. Se existir
   - [Sublime Text](https://github.com/digitalcora/sublime-text-gleam).
   - [Atom](https://github.com/itsgreggreg/language-gleam).
   - [Gedit](https://github.com/DannyLettuce/gleam_gedit).
+  
+</details>
 
 ## 🚀 Strand: Gleam em produção
 
 > Ref. https://gleam.run/case-studies/strand/
+
+<details>
+  <summary>Clique p/ expandir aqui.</summary>
 
 [A Strand](https://www.strand-uk.com/) é uma agência de marketing sediada em Londres, Reino Unido. A empresa é especializada em redação publicitária e criação de conteúdo para muitas das maiores empresas de tecnologia empresarial do mundo, executando programas de marketing que produzem centenas de white papers, estudos de caso, postagens de blog e artigos todos os anos.
 
@@ -366,6 +373,8 @@ A simplicidade da linguagem e a sofisticação das ferramentas de desenvolviment
 
 Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam valeu a pena. A abordagem de segurança e tolerância a falhas, com todos os cuidados necessários, nos proporcionou um sistema que funciona de forma confiável, dia após dia, sem supervisão e manutenção constantes. Para uma equipe como a nossa, com muitas outras prioridades e projetos nos quais precisamos trabalhar, a confiança que o Gleam nos dá vale ouro.”
 
+</details>
+
 ## 🌈 Mascote
 
 "Lúcia"(pt_BR) -> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
@@ -376,4 +385,3 @@ Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam vale
 ![Lúcia sorrindo](https://github.com/user-attachments/assets/e34b6475-8f5c-408e-a893-283fb350ab28)
 
 ![Lúcia sorrindo rotacionado](https://github.com/user-attachments/assets/90ea6373-4c13-4b50-b1cc-a66a31ac5686)
-
