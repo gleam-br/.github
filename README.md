@@ -1,35 +1,29 @@
-# Gleam-BR: Engenharia de Software de Alta Disponibilidade
+# Gleam-BR: Engenharia de Software e Sistemas Distribuídos
 
-Bem-vindo à **Gleam-BR**. Somos uma fundação sem fins lucrativos dedicada à pesquisa, desenvolvimento e curadoria de sistemas distribuídos de missão crítica, utilizando a linguagem **Gleam** sobre o ecossistema **BEAM (Erlang/OTP)** e **JavaScript**.
+Bem-vindo à **Gleam-BR**. Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
 
-## 🚀 Nossa Visão
+## 🏗️ Nossa Estrutura
 
-Em um mundo de "deflação da programação", o valor real migrou da escrita de código bruto para o **julgamento arquitetural** e a **integração de sistemas complexos**. A Gleam-BR existe para fornecer ao Brasil ferramentas que são:
-- **Resilientes:** Aproveitando os 30+ anos de OTP.
-- **Eficientes:** Focadas em baixo consumo de recursos e alta performance (ScyllaDB/YugabyteDB).
-- **Tipadas:** Eliminando categorias inteiras de erros antes mesmo da execução.
+Nossa atuação é dividida entre o desenvolvimento comunitário e a aplicação empresarial de ponta:
 
-## 🛠️ O Ecossistema (Stack Tecnológica)
+* **[Gleam.dev.br](https://gleam.dev.br):** Nosso braço **sem fins lucrativos**. Um espaço de inovação e software livre focado exclusivamente em Gleam, Erlang/OTP e JavaScript. É aqui que nascem as bibliotecas e ferramentas que sustentam o ecossistema nacional.
+* **[Gleam-lang.com.br](https://gleam-lang.com.br):** Nossa operação **comercial**. Focada em soluções empresariais robustas, integrando Gleam e Erlang à solidez do ecossistema Java e à onipresença do JavaScript.
+* **[FVideen.com.br](https://fvideen.com.br):** A base de tudo. **Freunde Von Ideen**, nossa consultoria de sistemas e desenvolvimento (CNPJ Brasil), que provê a governança e a experiência de engenharia por trás de todas as iniciativas.
 
-Nossa fundação baseia-se em pilares técnicos rigorosos, inspirados em arquiteturas de "baixa fricção":
+## 🚀 Pilares Técnicos: BPM + KVM
 
-- **Linguagem Core:** [Gleam](https://gleam.run) (Backend na BEAM, Frontend via Lustre).
-- **Persistência Distribuída:** Arquiteturas CQRS utilizando **YugabyteDB** (Consistência) e **ScyllaDB** (Performance de Leitura).
-- **Motor de Processos:** Desenvolvimento do **BPM+KVM** (Business Process Manager) nativo em Gleam/OTP.
-- **Observabilidade:** Logs estruturados e eventos de alta cardinalidade, seguindo a filosofia de simplicidade do Unix.
+O núcleo do nosso desenvolvimento gira em torno da criação de ferramentas de infraestrutura que abstraem a complexidade sistêmica:
 
-## 🌟 Projetos Principais
+1.  **BPM (Business Process Manager):** Orquestração de processos de negócio utilizando a leveza e a concorrência nativa dos processos Erlang.
+2.  **KVM (Key Value Manager):** Gestão eficiente de estado e dados distribuídos, priorizando performance e consistência em ambientes de alta disponibilidade.
 
-- **[create-vite-lustre](https://github.com/gleam-br/create-vite-lustre):** Ferramenta de scaffolding para aplicações frontend modernas.
-- **Lúcia (Lucy):** Nossa mascote e símbolo de clareza (do latim *Lux*).
-- **Gleam-Lang.com.br:** Portal de documentação e blog técnico em português.
+Todas as bibliotecas e ferramentas desenvolvidas ou recomendadas pela Gleam-BR servem de suporte para o amadurecimento destes dois pilares.
 
-## 📜 Manifesto Gleam-BR
-
-1. **Software como Patrimônio:** Código deve ser legível, durável e útil para a sociedade.
-2. **Minimalismo Pragmático:** Se pode ser resolvido com processos leves do Erlang, não adicione um broker de mensagens externo.
-3. **Soberania Educacional:** Produzir conteúdo técnico de nível sênior em língua portuguesa para formar a próxima geração de arquitetos de sistemas.
+## 🌟 Projetos e Iniciativas
+- **Lúcia (Lucy):** Nossa mascote, símbolo de clareza e iluminação (do latim *Lux*).
+- **Curadoria Técnica:** Documentação e blog posts traduzindo conceitos complexos de sistemas distribuídos para o português.
+- **Interoperabilidade:** Foco constante na integração segura entre a tipagem estática do Gleam e os targets BEAM/JS.
 
 ---
-"A crise de amanhã é o problema de amanhã. Hoje, construímos sistemas que sobrevivem." 
-*— Adaptado de Kent Beck*
+*Mantido com orgulho por **Freunde Von Ideen**.*
+"A crise de amanhã é o problema de amanhã. Hoje, construímos sistemas que sobrevivem."
