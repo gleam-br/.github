@@ -1,4 +1,4 @@
-# Gleam-BR: Engenharia da Sobrevivência
+# Roadmap Gleam-BR: Sistemas Lúcidos
 
 Este roteiro define a transição das nossas bibliotecas base para o ecossistema de SaaS robusto (BPM + KVM).
 
