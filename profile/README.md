@@ -7,7 +7,7 @@
 - [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
 - [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
 
-> Para [saber mais acesse aqui](../README.md).
+> Para [saber mais, acesse aqui](../README.md) <img width="24" height="24" alt="lúcia" src="https://github.com/user-attachments/assets/b02fc171-d5fc-4964-9a67-1575a03f8205" />.
 
 ## 🛫 Bibliotecas by @gleam-br
 
