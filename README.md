@@ -6,9 +6,9 @@
 
 Nossa atuação é dividida entre o desenvolvimento comunitário e a aplicação empresarial de ponta:
 
-* **[Gleam.dev.br](https://gleam.dev.br):** Nosso braço **sem fins lucrativos**. Um espaço de inovação e software livre focado exclusivamente em Gleam, Erlang/OTP e JavaScript. É aqui que nascem as bibliotecas e ferramentas que sustentam o ecossistema nacional.
-* **[Gleam-lang.com.br](https://gleam-lang.com.br):** Nossa operação **comercial**. Focada em soluções empresariais robustas, integrando Gleam e Erlang à solidez do ecossistema Java e à onipresença do JavaScript.
-* **[FVideen.com.br](https://fvideen.com.br):** A base de tudo. **Freunde Von Ideen**, nossa consultoria de sistemas e desenvolvimento (CNPJ Brasil), que provê a governança e a experiência de engenharia por trás de todas as iniciativas.
+* **[gleam.dev.br](https://gleam.dev.br):** Nosso braço **sem fins lucrativos**. Um espaço de inovação e software livre focado exclusivamente em Gleam, Erlang/OTP e JavaScript. É aqui que nascem as bibliotecas e ferramentas que sustentam o ecossistema nacional.
+* **[gleam-lang.com.br](https://gleam-lang.com.br):** Nossa operação **comercial**. Focada em soluções empresariais robustas, integrando Gleam e Erlang à solidez do ecossistema Java e à onipresença do JavaScript.
+* **[fvideen.com.br](https://fvideen.com.br):** A base de tudo. **Freunde Von Ideen**, nossa consultoria de sistemas e desenvolvimento (CNPJ 50.668.205/0001-18), que provê a governança e a experiência de engenharia por trás de todas as iniciativas.
 
 ## 🚀 Pilares Técnicos: BPM + KVM
 
