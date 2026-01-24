@@ -14,9 +14,9 @@ Nossa atuação é dividida entre o desenvolvimento comunitário e a aplicação
 
 Para entender a alma deste projeto e as regras de ouro da nossa engenharia, explore os documentos em `.\docs`:
 
-1.  [**Manifesto Gleam-BR**](./docs/manifesto.md): O "Porquê" da nossa existência e nossos valores éticos.
-2.  [**Guia de Arquitetura e Estilo**](./docs/arquitetura.md): Instruções técnicas inspiradas na filosofia da **Synrc (5HT)** e **Erpuno**.
-3.  [**Licença Ética**](./docs/etica.md): Nossas diretrizes de uso civil, construtivo e recíproco.
+1.  [**Manifesto Gleam-BR**](./manifesto.md): O "Porquê" da nossa existência e nossos valores éticos.
+2.  [**Guia de Arquitetura e Estilo**](./arquitetura.md): Instruções técnicas inspiradas na filosofia da **Synrc (5HT)** e **Erpuno**.
+3.  [**Licença Ética**](./etica.md): Nossas diretrizes de uso civil, construtivo e recíproco.
 
 ---
 
