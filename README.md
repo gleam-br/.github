@@ -26,4 +26,4 @@ Todas as bibliotecas e ferramentas desenvolvidas ou recomendadas pela Gleam-BR s
 
 ---
 *Mantido com orgulho por **Freunde Von Ideen**.*
-"A crise de amanhã é o problema de amanhã. Hoje, construímos sistemas que sobrevivem."
+"A crise de amanhã é o sistema que sobrevive hoje."
