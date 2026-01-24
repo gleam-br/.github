@@ -19,6 +19,7 @@
 - [gbr_erl](https://github.com/gleam-br/gbr_js): Erlang library p/ gleam, somente target [erl](https://erlang.org).
 - [gbr_msal](https://github.com/gleam-br/gbr_msal): Javascript gleam [MS authorization library integration](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
 - [gbr_ui](https://github.com/gleam-br/gbr_ui): [Lustre](https://lustre.build) + Tailwind + Admin componentes.
+- [gbr_ui_router](https://github.com/gleam-br/gbr_ui_router): Gleam JS SPA router using [modem](https://github.com/hayleigh-dot-dev/modem).
 
 ## ⭐ Pronto para começar sua jornada Gleam?
 
