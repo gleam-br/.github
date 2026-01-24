@@ -7,6 +7,8 @@
 - [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
 - [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
 
+> Para [saber mais acesse aqui](../README.md).
+
 ## 🛫 Bibliotecas by @gleam-br
 
 - [create-vite-lustre](https://github.com/gleam-br/create-vite-lustre): `npm create vite-lustre` tool.
