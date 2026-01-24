@@ -7,7 +7,7 @@
 - [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
 - [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
 
-> Para [saber mais, acesse aqui](../README.md) <img width="24" height="24" alt="lúcia" src="./lucy_emoji_transparent.png" />.
+> <img width="24" height="24" alt="lúcia" src="./lucy_emoji_transparent.png" /> Para [saber mais, acesse aqui](../README.md)
 
 ## 🛫 Bibliotecas by @gleam-br
 
@@ -380,8 +380,9 @@ Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam vale
 
 ## 🌈 Mascote
 
-"Lúcia"(pt_BR) -> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
+<img width="24" height="24" alt="lúcia" src="./lucy_emoji_transparent.png" /> "Lúcia"(pt_BR) -> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
 > Ambos os nomes têm a mesma origem latina, vindo de "Lux", que significa "luz"
+
 <details>
   <summary>Clique p/ expandir aqui.</summary>
   
