@@ -382,9 +382,13 @@ Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam vale
 
 "Lúcia"(pt_BR) -> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
 > Ambos os nomes têm a mesma origem latina, vindo de "Lux", que significa "luz"
-
+<details>
+  <summary>Clique p/ expandir aqui.</summary>
+  
 ![Lúcia](https://github.com/user-attachments/assets/07c159af-d72d-47d1-8b1f-b5f8a64f451b)
 
 ![Lúcia sorrindo](https://github.com/user-attachments/assets/e34b6475-8f5c-408e-a893-283fb350ab28)
 
 ![Lúcia sorrindo rotacionado](https://github.com/user-attachments/assets/90ea6373-4c13-4b50-b1cc-a66a31ac5686)
+
+</details>
