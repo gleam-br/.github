@@ -10,6 +10,16 @@ Nossa atuação é dividida entre o desenvolvimento comunitário e a aplicação
 * **[gleam-lang.com.br](https://gleam-lang.com.br):** Nossa operação **comercial**. Focada em soluções empresariais robustas, integrando Gleam e Erlang à solidez do ecossistema Java e à onipresença do JavaScript.
 * **[fvideen.com.br](https://fvideen.com.br):** A base de tudo. **Freunde Von Ideen**, nossa consultoria de sistemas e desenvolvimento (CNPJ 50.668.205/0001-18), que provê a governança e a experiência de engenharia por trás de todas as iniciativas.
 
+## 📖 Documentação Fundamental
+
+Para entender a alma deste projeto e as regras de ouro da nossa engenharia, explore os documentos em `.\docs`:
+
+1.  [**Manifesto Gleam-BR**](./docs/manifesto.md): O "Porquê" da nossa existência e nossos valores éticos.
+2.  [**Guia de Arquitetura e Estilo**](./docs/arquitetura.md): Instruções técnicas inspiradas na filosofia da **Synrc (5HT)** e **Erpuno**.
+3.  [**Licença Ética**](./docs/etica.md): Nossas diretrizes de uso civil, construtivo e recíproco.
+
+---
+
 ## 🚀 Pilares Técnicos: BPM + KVM
 
 O núcleo do nosso desenvolvimento gira em torno da criação de ferramentas de infraestrutura que abstraem a complexidade sistêmica:
@@ -25,5 +35,5 @@ Todas as bibliotecas e ferramentas desenvolvidas ou recomendadas pela Gleam-BR s
 - **Interoperabilidade:** Foco constante na integração segura entre a tipagem estática do Gleam e os targets BEAM/JS.
 
 ---
-*Mantido com orgulho por **Freunde Von Ideen**.*
+*Mantido com ❤️ por **Freunde Von Ideen**.*
 "A crise de amanhã é o sistema que sobrevive hoje."
