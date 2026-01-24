@@ -1,6 +1,6 @@
 # Gleam-BR: Engenharia de Software e Sistemas Distribuídos
 
-<img width="24" height="24" alt="lúcia-transparent" src="https://github.com/user-attachments/assets/fd43f83e-b27c-40b9-8b93-f3b7068cf28d" /> Bem-vindo à **Gleam-BR**. Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
+<img width="20" height="20" alt="lúcia" src="https://github.com/user-attachments/assets/b02fc171-d5fc-4964-9a67-1575a03f8205" /> Bem-vindo à **Gleam-BR**. Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
 
 ## 🏗️ Nossa Estrutura
 
