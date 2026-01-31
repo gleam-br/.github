@@ -2,7 +2,7 @@
 
 🎉 GleamBR é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
 
-⚗️ Uma plataforma de produção e curadoria de conteúdo, em português, voltada para o [gleam](https://gleam.run).
+⚗️ Uma plataforma de produção e curadoria de conteúdo, em português, voltada para a linguagem de programação [Gleam](https://gleam.run).
 
 - [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
 - [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
@@ -14,12 +14,16 @@
 - [create-vite-lustre](https://github.com/gleam-br/create-vite-lustre): `npm create vite-lustre` tool.
 - [vite-plugin-gleam](https://github.com/gleam-br/vite-plugin-gleam): [Vite](https://vite.dev/) plugin p/ gleam.
 - [bun-plugin-gleam](https://github.com/gleam-br/bun-plugin-gleam): [Bun](https://bun.com/) plugin p/ gleam.
-- [gbr_shared](https://github.com/gleam-br/gbr_shared): Shared library p/ gleam target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) e [erl](https://erlang.org).
-- [gbr_js](https://github.com/gleam-br/gbr_js): Javascript library p/ gleam, somente target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-- [gbr_erl](https://github.com/gleam-br/gbr_js): Erlang library p/ gleam, somente target [erl](https://erlang.org).
-- [gbr_msal](https://github.com/gleam-br/gbr_msal): Javascript gleam [MS authorization library integration](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
-- [gbr_ui](https://github.com/gleam-br/gbr_ui): [Lustre](https://lustre.build) + Tailwind + Admin componentes.
-- [gbr_ui_router](https://github.com/gleam-br/gbr_ui_router): Gleam JS SPA router using [modem](https://github.com/hayleigh-dot-dev/modem).
+- [gbr_shared](https://github.com/gleam-br/gbr_shared): 👯 Shared library p/ gleam target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) e [erl](https://erlang.org).
+- [gbr_js](https://github.com/gleam-br/gbr_js): 🎃 Javascript library p/ gleam, somente target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+- [gbr_erl](https://github.com/gleam-br/gbr_erl): 🍀 Erlang library p/ gleam, somente target [erl](https://erlang.org).
+- [gbr_md](https://github.com/gleam-br/gbr_md): Ⓜ️ Gleam library markdown and to html/lustre elements, gbr_ui comming soon...
+- [gbr_gh](https://github.com/gleam-br/gbr_gh): 🔮 Github Rest API client by Gleam BR.
+- [gbr_json](https://github.com/gleam-br/gbr_json): 📃 JSON/JSON-RPC/JSON-Schema tipos e funções de ajuda.
+- [gbr_mcp](https://github.com/gleam-br/gbr_mcp): 🧠 Model Context Protocol Server/Client tipos e funções de ajuda.
+- [gbr_msal](https://github.com/gleam-br/gbr_msal): 🛂 Gleam Microsoft Authorization Library utiliza [MS authorization library integration](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
+- [gbr_ui](https://github.com/gleam-br/gbr_ui): 📺 Gleam + [Lustre](https://lustre.build) + Tailwind + Admin componentes visuais.
+- [gbr_ui_router](https://github.com/gleam-br/gbr_ui_router): 📡 Gleam JS SPA router using [modem](https://github.com/hayleigh-dot-dev/modem).
 
 ## ⭐ Pronto para começar sua jornada Gleam?
 
