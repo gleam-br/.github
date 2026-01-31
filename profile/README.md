@@ -7,7 +7,7 @@
 - [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
 - [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
 
-> <img width="24" height="24" alt="lúcia" src="./lucy_emoji_transparent.png" /> Para [saber mais, acesse aqui](../README.md)
+> <img width="24" height="24" alt="lúcia" src="./lucy_emoji_transparent.png" /> Para [saber mais...](../README.md)
 
 ## 🛫 Bibliotecas by @gleam-br
 
@@ -17,11 +17,11 @@
 - [gbr_shared](https://github.com/gleam-br/gbr_shared): 👯 Shared library p/ gleam target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) e [erl](https://erlang.org).
 - [gbr_js](https://github.com/gleam-br/gbr_js): 🎃 Javascript library p/ gleam, somente target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 - [gbr_erl](https://github.com/gleam-br/gbr_erl): 🍀 Erlang library p/ gleam, somente target [erl](https://erlang.org).
-- [gbr_md](https://github.com/gleam-br/gbr_md): Ⓜ️ Gleam library markdown and to html/lustre elements, gbr_ui comming soon...
 - [gbr_gh](https://github.com/gleam-br/gbr_gh): 🔮 Github Rest API client by Gleam BR.
 - [gbr_json](https://github.com/gleam-br/gbr_json): 📃 JSON/JSON-RPC/JSON-Schema tipos e funções de ajuda.
 - [gbr_mcp](https://github.com/gleam-br/gbr_mcp): 🧠 Model Context Protocol Server/Client tipos e funções de ajuda.
 - [gbr_msal](https://github.com/gleam-br/gbr_msal): 🛂 Gleam Microsoft Authorization Library utiliza [MS authorization library integration](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
+- [gbr_md](https://github.com/gleam-br/gbr_md): Ⓜ️ Gleam library markdown and to html/lustre elements, gbr_ui comming soon...
 - [gbr_ui](https://github.com/gleam-br/gbr_ui): 📺 Gleam + [Lustre](https://lustre.build) + Tailwind + Admin componentes visuais.
 - [gbr_ui_router](https://github.com/gleam-br/gbr_ui_router): 📡 Gleam JS SPA router using [modem](https://github.com/hayleigh-dot-dev/modem).
 
