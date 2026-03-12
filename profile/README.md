@@ -4,8 +4,9 @@
 
 ⚗️ Uma plataforma de produção e curadoria de conteúdo, em português, voltada para a linguagem de programação <img width="24" height="24" alt="lucy" src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png" /> [Gleam](https://gleam.run).
 
-- [gleam.dev.br](https://gleam.dev.br): 🚧(WIP) Blog sobre tudo o que é possível na BEAM, com foco no Gleam.
-- [gleam-lang.com.br](https://gleam-lang.com.br): 🚧(WIP) Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
+- [gleam.dev.br](https://gleam.dev.br): Open-source BR tudo sobre BEAM, com foco em Gleam.
+- [gleam-lang.com.br](https://gleam-lang.com.br): Empresa de ferramentas desenvolvidas em Gleam, com foco no mercado brasileiro.
+- [fvideen.com.br](https://fvideen.com.br): Empresa de consultoria estabilizada no mercado com mais de 10 anos de experiência de mercado.
 
 > <img width="24" height="24" alt="lúcia" src="./lucy_emoji_transparent.png" /> Para [saber mais...](../README.md)
 
