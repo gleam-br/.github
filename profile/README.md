@@ -14,6 +14,7 @@
 - [create-vite-lustre](https://github.com/gleam-br/create-vite-lustre): `npm create vite-lustre` tool.
 - [vite-plugin-gleam](https://github.com/gleam-br/vite-plugin-gleam): [Vite](https://vite.dev/) plugin p/ gleam.
 - [bun-plugin-gleam](https://github.com/gleam-br/bun-plugin-gleam): [Bun](https://bun.com/) plugin p/ gleam.
+- [gbr_disk_log](https://github.com/gleam-br/gbr_disk_log): 💽 Erlang Disk Log Gleam Wrapper
 - [gbr_shared](https://github.com/gleam-br/gbr_shared): 👯 Shared library p/ gleam target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) e [erl](https://erlang.org).
 - [gbr_js](https://github.com/gleam-br/gbr_js): 🎃 Javascript library p/ gleam, somente target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 - [gbr_erl](https://github.com/gleam-br/gbr_erl): 🍀 Erlang library p/ gleam, somente target [erl](https://erlang.org).
