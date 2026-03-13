@@ -4,8 +4,6 @@ Na **Gleam-BR**, entendemos que a excelência técnica deve caminhar lado a lado
 
 Abaixo, apresentamos o que nos torna um porto seguro e como complementamos a visão da linguagem Gleam para torná-la a mais amigável do mundo.
 
----
-
 ## 🧭 Os Pilares da Nossa Identidade
 
 ### 1. A Língua como Conexão, não como Filtro
@@ -20,8 +18,6 @@ Enquanto comunidades tradicionais focam em regras punitivas, nós operamos sob a
 Rejeitamos qualquer forma de coerção ou governança sobre o pensamento alheio.
 * **Liberdade de Ferramentas:** Use o que expande sua mente. Seja IA para codar ou métodos tradicionais, o que importa é o brilho da sua criação final e o respeito ao espaço do próximo.
 
----
-
 ## 📊 Gleam Global vs. Gleam Brasil
 
 | Dimensão | Gleam-Lang (Oficial) | Gleam-BR (Nós) |
@@ -32,13 +28,9 @@ Rejeitamos qualquer forma de coerção ou governança sobre o pensamento alheio.
 | **Cultura** | Meritocracia Técnica | Autonomia Coletiva e Compaixão |
 | **Visão da IA** | Ferramenta secundária/neutra | Ferramenta de acessibilidade e liberdade |
 
----
-
 ## 💡 Nosso Objetivo Final
 
 > "Agregar à comunidade Gleam onde a técnica silencia o humano. Queremos que o Gleam seja a linguagem mais segura do mundo não apenas porque o compilador evita erros, mas porque a comunidade evita a desmotivação, o medo e a exclusão."
-
----
 
 ### 🛡️ Licença de Intenção Sincera
 *Alinhe a razão ao coração. Se a sua intenção é construir e compartilhar conhecimento com respeito, você já é um mestre entre nós. Expanda seu brilho em todas as cores e direções.*
