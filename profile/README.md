@@ -2,9 +2,9 @@
 
 **A comunidade brasileira de [Gleam](https://gleam.run/).**
 
-<img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" /> **Gleam-BR**: Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
-
 ⚗️ [Gleam-BR](https://gleam.dev.br) é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
+
+<img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" /> Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
 
 Somos um espaço **laico, livre e colaborativo**, para saber mais [clique aqui](https://gleam.dev.br).
 
