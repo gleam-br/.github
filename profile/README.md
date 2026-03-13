@@ -42,4 +42,4 @@ A [Gleam-BR](https://gleam.dev.br) é construída por pessoas e para pessoas. Se
 
 **Junte-se a nós. Alinhe a razão ao coração e expanda o seu brilho em todas as cores e direções! ✨**
 
-<img width="20" height="20" alt="lúcia" src="./profile/lucy_emoji_transparent.png" />
+<img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" />
