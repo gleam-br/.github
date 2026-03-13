@@ -72,11 +72,12 @@ A [Gleam-BR](https://gleam.dev.br) é construída por pessoas e para pessoas. Se
 
 Confira o [tour da linguagem](https://tour.gleam.run/) e a documentação [aqui](https://gleam.run/documentation).
 
-Para ver todos os recursos da linguagem de uma vez acesso o [tour everything](https://tour.gleam.run/everything/).
+Para ver todos os recursos da linguagem de uma vez você pode acessar o [tour everything](https://tour.gleam.run/everything/).
 
 Já está usando em produção? [Compartilhe sua história conosco](https://gleam.run/community), adoraríamos saber mais!
 
 [Code Wiki Gleam](https://codewiki.google/github.com/gleam-lang/gleam)
+|> Não confie muito foi gerado por AI
 
 ## 📈 Estatísticas
 
@@ -443,11 +444,10 @@ Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam vale
 
 ---
 
-**Junte-se a nós. Alinhe a razão ao coração e expanda o seu brilho em todas as cores e direções! ✨**
+**Junte-se a nós.**
 
-<img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" />
-
----
+**Alinhe a razão ao coração e expanda o seu brilho em todas as cores e direções! ✨**
 
 *Mantido com ❤️ por **Freunde Von Ideen**.*
-"A crise de amanhã é o sistema que sobrevive hoje."
+
+<img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" />
