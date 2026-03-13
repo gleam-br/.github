@@ -2,7 +2,7 @@
 
 **A comunidade brasileira focada em expandir e descomplicar o ecossistema da linguagem [Gleam](https://gleam.run/) no Brasil.**
 
-Nós não somos apenas um repositório de código; somos um espaço **laico, livre e colaborativo**. Acreditamos que a tecnologia deve servir à expressão humana e que a linguagem deve ser uma ponte, nunca uma barreira.
+Somos um espaço **laico, livre e colaborativo**. Acreditamos que a tecnologia deve servir à expressão humana e que a linguagem deve ser uma ponte, nunca uma barreira.
 
 Se você está aqui para aprender Gleam, construir ferramentas incríveis ou apenas encontrar um ambiente seguro para tirar dúvidas sem medo de ser julgado, **você encontrou a sua casa.** 🏘️
 
