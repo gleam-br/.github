@@ -6,7 +6,7 @@
 
 <img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" /> Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
 
-Somos um espaço **laico, livre e colaborativo**, para saber mais [clique aqui](https://gleam.dev.br).
+Somos um espaço **laico, livre e colaborativo**, para saber mais [clique aqui](../MANIFESTO.md).
 
 **Se você está aqui** para aprender Gleam, construir ferramentas incríveis ou apenas encontrar um ambiente seguro para tirar dúvidas sem medo de ser julgado, **você encontrou a sua casa.** 🏘️
 
