@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao Gleam-BR <img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" />
 
-**A comunidade brasileira de [Gleam](https://gleam.run/) focada em produção, curadoria e desenvolvimento de sistemas de missão.**
+**A comunidade brasileira de [Gleam](https://gleam.run/) focada em produção, curadoria e desenvolvimento de sistemas de missão crítica.** 📊
 
 Somos um espaço **laico, livre e colaborativo**, quer saber mais [clique aqui](../README.md).
 
