@@ -6,8 +6,6 @@ Somos um espaço **laico, livre e colaborativo**. Acreditamos que a tecnologia d
 
 Se você está aqui para aprender Gleam, construir ferramentas incríveis ou apenas encontrar um ambiente seguro para tirar dúvidas sem medo de ser julgado, **você encontrou a sua casa.** 🏘️
 
----
-
 ## 🛠️ O Que Nós Construímos
 
 Nosso foco é criar bibliotecas, *scaffoldings* e ferramentas que facilitem a vida de quem desenvolve em Gleam, abraçando tanto os *targets* de Erlang quanto de JavaScript. Alguns dos nossos principais focos incluem:
@@ -17,8 +15,6 @@ Nosso foco é criar bibliotecas, *scaffoldings* e ferramentas que facilitem a vi
 * **Ecosystem Core:** Clientes REST (como a API do GitHub), integrações MSAL, manipulação de JSON e utilitários para Erlang (`gbr_gh`, `gbr_erl`, `gbr_shared`).
 
 Sinta-se livre para explorar nossos repositórios, clonar, testar e, claro, quebrar algumas coisas no processo (faz parte do aprendizado!).
-
----
 
 ## 📖 Nossa Filosofia: A Lucidez Tecnológica
 
@@ -31,8 +27,6 @@ Em resumo:
 3. **O Coração Alinhado à Razão:** Tudo o que fazemos visa o bem comum. Não gastamos energia em discussões vazias; gastamos energia criando.
 
 👉 **[Leia o nosso Manifesto Completo aqui](./MANIFESTO.md)**
-
----
 
 ## 🤝 Como Fazer Parte
 
