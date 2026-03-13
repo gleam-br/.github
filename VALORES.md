@@ -1,4 +1,4 @@
-# 💎 Nossos Valores: O Diferencial Gleam-BR
+# 💎 GBR: Nossos Valores
 
 Na **Gleam-BR**, entendemos que a excelência técnica deve caminhar lado a lado com a lucidez humana. Enquanto o ecossistema global foca na precisão do código, nós focamos na **harmonia do desenvolvedor**. 
 
