@@ -36,6 +36,7 @@ Para entender a alma deste projeto e as regras de ouro da nossa engenharia, expl
 
 1.  [**O Manifesto**](../MANIFESTO.md): O "Porquê" da nossa existência e nossos valores.
 2.  [**A Ética**](../ETICA.md): Nossas diretrizes de uso civil, construtivo e recíproco.
+2.  [**Os Valores**](../VALORES.md.md): Nossos valores e diretrizes.
 
 ## 🛠️ O Que Nós Construímos
 
