@@ -10,7 +10,7 @@ A fundação Gleam-BR nasce da necessidade de resgatar a clareza na engenharia d
 3. **Sustentabilidade Radical:** Software sustentável é aquele que consome o mínimo de recursos — sejam eles ciclos de CPU, bytes de memória ou tokens de IA.
 4. **Soberania e Ética:** Nossos sistemas são abertos, perenes e governados por uma [ética](./ETICA.md) que preza pelo uso civil e construtivo.
 
-## O Manifesto - Lucidez Tecnológica
+## O Manifesto - A Lucidez Tecnológica
 > Onde explicamos o "Como?"
 
 Como um feixe de luz que atravessa o espaço e se expande em todas as cores e direções, nossa comunidade nasce da multiplicidade. Somos um espaço laico, livre e guiado por um princípio imutável: viemos a esta vida para existir, obter conhecimento e experimentar a bem-aventurança da criação.

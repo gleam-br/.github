@@ -1,4 +1,4 @@
-# Gleam-BR: Licença Ética 
+# GBR: Licença Ética 
 > (Rascunho)
 
 Ética que rege o uso do código produzido pela fundação e seus contribuidores.
