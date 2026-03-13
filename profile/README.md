@@ -446,7 +446,7 @@ Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam vale
 
 **Junte-se a nós.**
 
-**Alinhe a razão ao coração e expanda o seu brilho em todas as cores e direções! ✨**
+*Alinhe a razão ao coração e expanda o seu brilho em todas as cores e direções!* ✨
 
 *Mantido com ❤️ por **Freunde Von Ideen**.*
 
