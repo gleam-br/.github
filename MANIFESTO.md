@@ -33,15 +33,11 @@ Rejeitamos a "bronca" pública, a superioridade disfarçada de conselho e a ilus
 
 Tudo é transitório. Discussões vazias sobre valores efêmeros ou defesas cegas de paradigmas são um desperdício da nossa energia vital. Mantenha a mente afiada, mas jamais desconecte a razão do coração. Nenhuma linha de código, nenhum debate técnico vale a energia gasta para prejudicar o estado físico ou emocional de qualquer forma de vida.
 
----
-
 ## A Licença da Intenção Sincera
 
 Inspirados pela liberdade radical e pela responsabilidade mútua, este é o nosso **pacto** 📿:
 
 > *Você tem a liberdade absoluta de usar, modificar, aprender e colaborar, utilizando as ferramentas que melhor traduzam a sua mente. Sua única obrigação é manter a lucidez: não ofenda, não calunie, não agrida. Alinhe a razão ao coração e expanda o seu brilho em todas as cores e direções.*
-
----
 
 ## Como Contribuir
 
