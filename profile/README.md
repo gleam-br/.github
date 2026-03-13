@@ -50,13 +50,13 @@ Nosso foco é criar bibliotecas, *scaffoldings* e ferramentas que facilitem a vi
 - [gbr_shared](https://github.com/gleam-br/gbr_shared): 👯 Shared library p/ gleam target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) e [erl](https://erlang.org).
 - [gbr_js](https://github.com/gleam-br/gbr_js): 🎃 Javascript library p/ gleam, somente target [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 - [gbr_erl](https://github.com/gleam-br/gbr_erl): 🍀 Erlang library p/ gleam, somente target [erl](https://erlang.org).
-- [gbr_gh](https://github.com/gleam-br/gbr_gh): 🔮 Github Rest API client by Gleam BR.
-- [gbr_json](https://github.com/gleam-br/gbr_json): 📃 JSON/JSON-RPC/JSON-Schema tipos e funções de ajuda.
-- [gbr_mcp](https://github.com/gleam-br/gbr_mcp): 🧠 Model Context Protocol Server/Client tipos e funções de ajuda.
-- [gbr_msal](https://github.com/gleam-br/gbr_msal): 🛂 Gleam Microsoft Authorization Library utiliza [MS authorization library integration](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
-- [gbr_md](https://github.com/gleam-br/gbr_md): Ⓜ️ Gleam library markdown and to html/lustre elements, gbr_ui comming soon...
-- [gbr_ui](https://github.com/gleam-br/gbr_ui): 📺 Gleam + [Lustre](https://lustre.build) + Tailwind + Admin componentes visuais.
-- [gbr_ui_router](https://github.com/gleam-br/gbr_ui_router): 📡 Gleam JS SPA router using [modem](https://github.com/hayleigh-dot-dev/modem).
+- [gbr_gh](https://github.com/gleam-br/gbr_gh): 🔮 Github Rest API client.
+- [gbr_json](https://github.com/gleam-br/gbr_json): 📃 JSON/JSON-RPC/JSON-Schema tipos e funções.
+- [gbr_mcp](https://github.com/gleam-br/gbr_mcp): 🧠 Model Context Protocol Server/Client tipos e funções.
+- [gbr_msal](https://github.com/gleam-br/gbr_msal): 🛂 Gleam MS Authorization integração com o [MS authorization library](https://learn.microsoft.com/pt-br/entra/identity-platform/msal-overview).
+- [gbr_md](https://github.com/gleam-br/gbr_md): Ⓜ️ Gleam Markdown para lustre, `gbr_ui` (integração em breve...)
+- [gbr_ui](https://github.com/gleam-br/gbr_ui): 📺 Gleam + [Lustre](https://lustre.build) + Tailwind + Admin desenvolvendo componentes visuais.
+- [gbr_ui_router](https://github.com/gleam-br/gbr_ui_router): 📡 Gleam JS/SPA router usa a biblioteca [modem](https://github.com/hayleigh-dot-dev/modem).
 
 Sinta-se livre para explorar nossos repositórios, clonar, testar e, claro, quebrar algumas coisas no processo (faz parte do aprendizado!).
 
