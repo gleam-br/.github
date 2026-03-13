@@ -70,7 +70,7 @@ A [Gleam-BR](https://gleam.dev.br) é construída por pessoas e para pessoas. Se
 
 ## ⭐ Pronto para começar sua jornada Gleam?
 
-Confira o [tour da linguagem](https://tour.gleam.run/) e [a documentção](https://gleam.run/documentation) aqui.
+Confira o [tour da linguagem](https://tour.gleam.run/) e a documentação [aqui](https://gleam.run/documentation).
 
 Para ver todos os recursos da linguagem de uma vez acesso o [tour everything](https://tour.gleam.run/everything/).
 
