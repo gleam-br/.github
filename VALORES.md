@@ -18,16 +18,6 @@ Enquanto comunidades tradicionais focam em regras punitivas, nós operamos sob a
 Rejeitamos qualquer forma de coerção ou governança sobre o pensamento alheio.
 * **Liberdade de Ferramentas:** Use o que expande sua mente. Seja IA para codar ou métodos tradicionais, o que importa é o brilho da sua criação final e o respeito ao espaço do próximo.
 
-## 📊 Gleam Global vs. Gleam Brasil
-
-| Dimensão | Gleam-Lang (Oficial) | Gleam-BR (Nós) |
-| :--- | :--- | :--- |
-| **Foco Principal** | Estabilidade e Segurança do Código | Lucidez e Bem-estar do Desenvolvedor |
-| **Comunicação** | Inglês Técnico (Padrão) | Multimodal e Acolhedora (PT-BR) |
-| **Abordagem ao Erro** | "O compilador te ajuda a corrigir" | "A comunidade te ajuda a crescer" |
-| **Cultura** | Meritocracia Técnica | Autonomia Coletiva e Compaixão |
-| **Visão da IA** | Ferramenta secundária/neutra | Ferramenta de acessibilidade e liberdade |
-
 ## 💡 Nosso Objetivo Final
 
 > "Agregar à comunidade Gleam onde a técnica silencia o humano. Queremos que o Gleam seja a linguagem mais segura do mundo não apenas porque o compilador evita erros, mas porque a comunidade evita a desmotivação, o medo e a exclusão."
