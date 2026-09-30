@@ -1,6 +1,8 @@
 # 🌟 Bem-vindo ao Gleam-BR
 
-**A comunidade brasileira do [Gleam](https://gleam.run/).**
+**A comunidade brasileira do [Gleam](https://gleam.run/), a linguagem que vai revolucionar o mundo.**
+
+**Acesse a comunidade global que é incrível e muito receptiva, [aqui.](https://gleam.run/community/)**
 
 ⚗️ [Gleam-BR](https://gleam.dev.br) é uma comunidade brasileira sobre a linguagem de programação [gleam-lang](https://gleam.run).
 
