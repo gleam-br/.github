@@ -15,8 +15,6 @@ Somos um espaço **laico, livre e colaborativo**, para saber mais [clique aqui](
 
 **Acreditamos** que a tecnologia deve servir à expressão humana e que a linguagem deve ser uma ponte, nunca uma barreira.
 
-<iframe src="https://github.com/sponsors/salespaulo/button" title="Sponsor salespaulo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 ## 🏗️ Estrutura
 
 Nossa atuação é dividida entre o desenvolvimento na comunidade e atuação empresarial de ponta:
