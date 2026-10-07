@@ -1,4 +1,5 @@
 # 🌟 Bem-vindo ao Gleam-BR
+> in [english here](./README_en-US.md)
 
 **A comunidade brasileira do [Gleam](https://gleam.run/), a linguagem que vai revolucionar o mundo.**
 
