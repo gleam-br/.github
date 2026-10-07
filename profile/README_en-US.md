@@ -14,8 +14,6 @@ We are a **secular, free, and collaborative** space. To learn more, [click here]
 
 **We believe** that technology should serve human expression and that language must be a bridge, never a barrier.
 
-<iframe src="https://github.com/sponsors/salespaulo/button" title="Sponsor salespaulo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 ## 🏗️ Structure
 
 Our work is divided between community-driven development and cutting-edge commercial initiatives:
